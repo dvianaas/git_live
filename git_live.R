@@ -1,5 +1,3 @@
-
 library(factoextra)
 
 #comentário
-
